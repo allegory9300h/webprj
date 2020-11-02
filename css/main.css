@@ -1,0 +1,81 @@
+
+.btn-lg {
+
+    width: 300px;
+    height: 70px;
+    left: 700;
+}
+//body {
+
+    background: url(C:/Users/qqqdo/Desktop/WebProject/img/header.jpg) ;
+}
+.dropdown-toggle{
+
+    width: 200;
+}
+.btn-primary{
+
+    width: 200;
+    margin-top: 3;
+}
+.carousel{
+    content: attr(data-);
+
+    width: 1500px;
+    height: 400px;
+    left: 10px;
+    right: 10px;
+    top:10px;
+
+}
+.d-block{
+    width: 1500px;
+    height: 400px;
+}
+.hv{
+
+    margin: 100px;
+}
+.row-m-t2{
+    margin-top : 150px;
+    margin-left: 200;
+  }
+  .fa-github{
+     margin-left: 50;
+  }
+  .row-m-t1{
+
+    margin-top: 57;
+    margin-left: 50;
+  }
+ 
+  body{
+
+    background-color: azure;
+  }
+  .registration{
+      margin-bottom: 5;
+  }
+  .resetpassword{
+      margin-left: 20;
+      margin-top: 1;
+  }
+  .LinkMy{
+
+    margin-top: 280;
+    margin-left: 700;
+
+   
+  }
+  input{
+      margin-top: 4;
+      width: 400;
+  }
+ .TextHelp{
+
+    margin-top: 200px;
+    margin-left: 200px;
+    border: inset bisque 7px;
+    padding: 20px;
+    margin-right: 100px;
+ }
